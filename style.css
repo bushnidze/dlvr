@@ -439,6 +439,8 @@ body {
 @media (max-width: 624px) {
     .main-text-mobile p {
     font-size: 1.5rem;
+    padding-top: 4rem;
+
     }
     .main-img-mobile {
         width: 320px;
@@ -446,6 +448,12 @@ body {
     .main-button-mobile {
         font-size: 0.8rem;
         padding: 0.9rem 3.9rem;
+    }
+    .second-mobile {
+        padding-bottom: 5rem;
+    }
+    .box-1 {
+        width: 20rem;
     }
 }
 
@@ -467,14 +475,5 @@ body {
     }
     .bot-text {
         font-size: 0.8rem;
-    }
-    .main-text-mobile p {
-        padding-top: 4rem;
-    }
-    .second-mobile {
-        padding-bottom: 5rem;
-    }
-    .box-1 {
-        width: 20rem;
     }
 }
